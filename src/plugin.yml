@@ -1,0 +1,6 @@
+name: Particles
+author: frane
+version: 0.1
+description: Bad desc, amirite
+main: me.frane.particles.Plugin
+depend: [ProtocolLib]
